@@ -9,3 +9,7 @@ I will be writing this repo very often {the goal is to update daily} and learn n
 [10th of November]<br>
 On 8th and 9th i was going through DAA understanding the algos.
 And today i have an meeting for the college website.
+
+[11th of November]<br>
+I had enrolled in the Google AI Kaggle Labs so it has start.
+I just completed my assignment and got back to study, as from tomorrow my end sem will start. 
