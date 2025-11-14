@@ -13,3 +13,6 @@ And today i have an meeting for the college website.
 [11th of November]<br>
 I had enrolled in the Google AI Kaggle Labs so it has start.
 I just completed my assignment and got back to study, as from tomorrow my end sem will start. 
+
+[14th November]<br>
+i was going through DAA.
